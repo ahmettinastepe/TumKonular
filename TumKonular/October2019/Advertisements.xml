@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>../Resources/logom.png</ImageUrl>
+    <NavigateUrl>http://iys.ahmettinastepe.xyz</NavigateUrl>
+    <TargetUrl>_blank</TargetUrl>
+    <AlternateText>Software and Design Studios</AlternateText>
+    <Keyword>Yazılım Dilleri</Keyword>
+    <Impressions>1</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>../Resources/card.png</ImageUrl>
+    <NavigateUrl>http://iys.ahmettinastepe.xyz</NavigateUrl>
+    <TargetUrl>_blank</TargetUrl>
+    <AlternateText>Software and Design Studios</AlternateText>
+    <Keyword>Yazılım Dilleri</Keyword>
+    <Impressions>1</Impressions>
+  </Ad>
+</Advertisements>

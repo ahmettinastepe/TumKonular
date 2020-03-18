@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Urunler>
+  <Urun>
+    <Barkod>1</Barkod>
+    <Ad>Tel Peynir</Ad>
+    <Kategori>Yiyecek</Kategori>
+    <Adet>1255</Adet>
+  </Urun>
+  <Urun>
+    <Barkod>2</Barkod>
+    <Ad>Ekmek</Ad>
+    <Kategori>Yiyecek</Kategori>
+    <Adet>54</Adet>
+  </Urun>
+  <Urun>
+    <Barkod>3</Barkod>
+    <Ad>Sprite</Ad>
+    <Kategori>İçecek</Kategori>
+    <Adet>62</Adet>
+  </Urun>
+  <Urun>
+    <Barkod>4</Barkod>
+    <Ad>Zeytin</Ad>
+    <Kategori>Yiyecek</Kategori>
+    <Adet>44</Adet>
+  </Urun>
+  <Urun>
+    <Barkod>5</Barkod>
+    <Ad>Reçel</Ad>
+    <Kategori>Yiyecek</Kategori>
+    <Adet>676</Adet>
+  </Urun>
+</Urunler>
